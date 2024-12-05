@@ -6,4 +6,6 @@
 
 const myCheckBox = document.getElementById("myCheckBox");
 const visaBtn = document.getElementById("visaBtn");
+const masterCardBtn = document.getElementById("masterCardBtn");
+
 
