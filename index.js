@@ -4,5 +4,6 @@
 // elements from html.
 
 
-const myCheckBox = document.getElementById("myCheckBox")
+const myCheckBox = document.getElementById("myCheckBox");
+const visaBtn = document.getElementById("visaBtn");
 
