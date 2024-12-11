@@ -16,9 +16,9 @@ const paymentResult = document.getElementById("paymentResult");
 mySubmit.onClick = function(){
 
 
-    if(myCheckBox.checked){
-        
+    if(myCheckBox.checked){// myCheckBox is for the subscription box. 
 
+        subResult.textContent= ` You are subscribe!`
 
 
 
