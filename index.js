@@ -13,4 +13,14 @@ const subResult = document.getElementById("subResult");
 const paymentResult = document.getElementById("paymentResult");
 
 
-mySubmit.onClick = function(){}
+mySubmit.onClick = function(){
+
+
+    if(myCheckBox.checked){
+        
+
+
+
+
+    }
+}
